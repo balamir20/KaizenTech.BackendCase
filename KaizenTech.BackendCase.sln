@@ -10,13 +10,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuestionOne", "QuestionOne", "{34281388-B4F5-4DCA-A9D0-F37B327BD91E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuestionTwo", "QuestionTwo", "{96AD841C-D0FF-4FE9-8034-7E88CF11CED4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuestionThree", "QuestionThree", "{636F3F11-1BA3-41C5-9ABC-B118663B37AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuestionTwo.News", "QuestionTwo.News", "{9CDE4DAD-65D2-46E5-B443-4493F619899E}"
 	ProjectSection(SolutionItems) = preProject
 		ddl.sql = ddl.sql
 		dml.sql = dml.sql
 		dql.sql = dql.sql
 	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QuestionThree", "QuestionThree", "{636F3F11-1BA3-41C5-9ABC-B118663B37AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3A0D3468-7A5C-4638-8D15-2A08E27BACBC} = {34281388-B4F5-4DCA-A9D0-F37B327BD91E}
 		{8DDE6C4F-7B5B-4147-BF80-FF8E0BAEDD13} = {636F3F11-1BA3-41C5-9ABC-B118663B37AE}
+		{9CDE4DAD-65D2-46E5-B443-4493F619899E} = {96AD841C-D0FF-4FE9-8034-7E88CF11CED4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {35215741-C1D3-44BE-9CD1-918C97768DCE}
