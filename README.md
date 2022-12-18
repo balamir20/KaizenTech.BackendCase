@@ -32,7 +32,7 @@ Kullanıcılar okumak istedikleri içerikler için web sitesi üzerinden destekl
 Sisteme dil seçeneği ile istek geldiği durumda tasarladığınız yapıya uygun olarak içeriklerin verilmesini sağlayacak T-SQL sorgusunu yazmanız beklenmektedir. Aşağıda “en” ve “tr” dil seçenekleri ile yapılan örnek sorgu sonuçları verilmiştir.
 
 ![enter image description here](
-https://i.ibb.co/B2BNDqf/carbon.png) 
+https://i.ibb.co/fHMnpyz/carbon.png) 
 
 
 ## Soru 3)
